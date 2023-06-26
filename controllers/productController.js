@@ -1,8 +1,8 @@
-const db = require('../models')
+const db = require('../models') // importei o modelo e o atribuí a variável db
 
 // create main Model
 
-const Product = db.products 
+const Product = db.products // atribuí  db a
 const Review = db.reviews
 
 
